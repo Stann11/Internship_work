@@ -1,0 +1,151 @@
+.banner{
+    background-image: url("../image/Untitled-3.png");
+}
+.bannerimg{
+    margin: 50px auto 0px 0px;
+}
+header {
+    margin: 20px;
+}
+span{
+    display: block;
+}
+.bannerdata h1{
+    margin: 150px auto 0px 30px;
+    color:white;
+    text-shadow: -3px 2px black;
+    font-size: 60px;
+}
+.bannerdata a{
+    margin: 10px auto 0px 30px;
+    background-color: #97b645;
+    color: black;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 30px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.txt{
+    background-image: url("../image/rectangle.png");
+    max-width:100%;
+    min-height: 150px;
+    background-size: cover;
+}
+img {
+    max-width: 100%;
+}
+.line{
+    margin-top: 30px;
+}
+.line h2{
+    color: white;
+    font-weight: 600;
+}
+.formtext h1{
+    color:#97b645;
+    font-weight: bold;
+}
+.formtext input{
+    border: 5px solid #e7e7e7;
+    border-radius: 5px;
+    height: 55px;
+    width:30%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.formtext button{
+    background-color: #97b645;
+    border: none;
+    border-radius: 5px;
+    height: 55px;
+    width:30%;
+    margin-top: 20px;
+    margin-left: -30px;
+    color: white;
+    font-size: 26px ;
+    font-weight: bold;
+}
+::placeholder
+{
+    color: #272727;
+    font-size: 20px;
+}
+input:focus{
+    outline: none;
+    box-shadow: 0 4px 8px 0 #e7e7e7, 0 6px 20px 0 #e7e7e7;
+}
+.txt1{
+    margin-top: 40px;
+    background-image: url("../image/rectangle1.png");
+    max-width:100%;
+    min-height: 150px;
+    background-size:cover ;
+}
+.video{
+    margin-top:100px ;
+}   
+.video h2{
+    margin-top: -100px;
+    text-align: right;
+    color:#97b645;
+    font-weight: 550;
+    font-size: 40px;
+}
+.video ul{
+    margin-top: 20px;
+    list-style-type: none;
+}
+.video li{
+    padding: 10px;
+}
+.btn a{
+    margin: 10px auto 0px 30px;
+    background-color: #97b645;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 10px 30px 10px 30px;
+}
+.video img{
+    height:40px;
+    width: 40px;
+}
+.video a{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.txt2{
+    margin-top: 40px;
+    background-image: url("../image/rectangle.png");
+    max-width:100%;
+    min-height: 150px;
+    background-size: cover;
+}
+.endtxt h1{
+    margin-top: 160px;
+    color:#97b645;
+    font-weight: bold;
+}
+.crouler img{
+    max-height: 220px;
+    min-width: 100%;
+    background-size: cover;
+    float:right;
+}
+.crouler h3{
+    padding-top: 10px !important;
+    font-weight: bold;
+}
+.crouler{
+    margin-top: 30px;
+    background-color: white;
+}
+.carousel-control{
+    background:none !important ;
+}
